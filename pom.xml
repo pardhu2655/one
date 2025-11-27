@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://65.0.170.162:8081/repository/ram-nexus/</url>
+		    <url>http://43.204.110.149:8081/repository/nexus-repo/</url>
 		</repository>
   	</distributionManagement>
 	
